@@ -1,0 +1,13 @@
+langchain
+langchain-community
+tiktoken
+pinecone-client
+chromadb
+python-dotenv
+pypdf
+jupyterlab
+streamlit
+langchain-openai
+langchain-google-genai
+google-generativeai
+docx2txt
